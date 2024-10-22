@@ -1,2 +1,5 @@
 # ignore image files
 Data/
+
+# ignore model file
+models/
