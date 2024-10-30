@@ -3,3 +3,9 @@ Data/
 
 # ignore model file
 models/
+
+#ignore achrive files
+archive/
+
+#ignore pycache
+__pycache__/
